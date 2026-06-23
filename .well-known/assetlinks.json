@@ -11,5 +11,17 @@
         "D7:04:36:FB:C3:32:00:4D:7F:12:6E:E6:08:5E:2A:02:1A:35:BD:AA:59:9E:2C:85:F5:DB:E5:D7:1E:36:56:95"
       ]
     }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.kipetchis.wilddex",
+      "sha256_cert_fingerprints": [
+        "79:42:48:48:EB:93:F7:CB:C8:A8:A9:F3:0F:D1:A4:5D:4F:8F:3C:BA:A6:E8:47:0F:78:5B:D0:98:79:9A:C0:0F"
+      ]
+    }
   }
 ]
