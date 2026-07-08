@@ -23,5 +23,18 @@
         "79:42:48:48:EB:93:F7:CB:C8:A8:A9:F3:0F:D1:A4:5D:4F:8F:3C:BA:A6:E8:47:0F:78:5B:D0:98:79:9A:C0:0F"
       ]
     }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.kipetchis.tvcouch",
+      "sha256_cert_fingerprints": [
+        "D5:DF:B5:2E:FD:30:9B:AB:FF:1C:37:B0:81:3B:CA:CC:29:EC:73:03:66:F8:2A:87:EC:2C:A3:36:2F:11:8D:02",
+        "43:65:ED:5D:54:AA:57:3A:FC:15:45:1C:44:42:FB:87:2E:92:9D:17:E2:60:00:2C:2A:2D:A7:DC:F3:88:CE:CE"
+      ]
+    }
   }
 ]
